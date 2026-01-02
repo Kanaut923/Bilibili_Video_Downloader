@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Github\\spider-for-bilibili-video\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0AC71CFC-99E1-4A6A-8AEA-589096FF612B}|spider-for-bilibili-video.pyproj|F:\\Github\\spider-for-bilibili-video\\spider.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0AC71CFC-99E1-4A6A-8AEA-589096FF612B}|spider-for-bilibili-video.pyproj|solutionrelative:spider.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 316,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "spider.py",
+              "DocumentMoniker": "F:\\Github\\spider-for-bilibili-video\\spider.py",
+              "RelativeDocumentMoniker": "spider.py",
+              "ToolTip": "F:\\Github\\spider-for-bilibili-video\\spider.py*",
+              "RelativeToolTip": "spider.py*",
+              "ViewState": "AgIAAAoDAAAAAAAAAAAAAA8DAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-01-01T15:22:35.61Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
