@@ -89,9 +89,5 @@ python spider.py
 *   请勿将本工具用于任何商业用途或非法分发版权内容。
 *   使用本工具产生的任何后果由用户自行承担。
 
-## 📄 License
-
-[MIT License](LICENSE)
-
 ---
 **如果觉得好用，请给个 Star ⭐️ 吧！**
