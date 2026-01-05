@@ -7,8 +7,8 @@
 
 一个基于 Python 和 Tkinter (ttkbootstrap) 开发的现代化 Bilibili 视频下载工具。支持扫码登录以获取 4K/1080P+ 高画质，支持批量下载、音频提取、封面嵌入等功能。
 
-![软件截图](https://via.placeholder.com/800x600?text=Please+Upload+Your+Screenshot+Here)
-*(建议在此处上传一张软件运行时的截图，命名为 screenshot.png 并放入仓库)*
+<img width="1097" height="1446" alt="image" src="https://github.com/user-attachments/assets/5d7f30ac-59ff-4556-883f-f326bd61629e" />
+
 
 ## ✨ 主要功能 (Features)
 
